@@ -6,7 +6,7 @@ It's like JSON but smaller and faster.
 Overview
 --------
 
-[MessagePack](http://msgpack.org/) is an efficient binary serialization
+[MessagePack](http://msgpack.org/)It is an efficient binary serialization
 format, which lets you exchange data among multiple languages like JSON,
 except that it's faster and smaller. Small integers are encoded into a
 single byte and short strings require only one extra byte in
